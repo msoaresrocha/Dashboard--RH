@@ -64,7 +64,7 @@ Turnover percentage
 \
 \
 The dashboard
-![Alt Text](https://github.com/msoaresrocha/Dashboard--RH/blob/main/Dashboard%20RH/GIF%20Dashboard%20RH.gif)
+![](https://github.com/msoaresrocha/Dashboard--RH/blob/main/Dashboard%20RH/GIF%20Dashboard%20RH.gif)
 
 \
 \
